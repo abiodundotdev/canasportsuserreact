@@ -80,7 +80,7 @@ export default function Login(){
                                     <div className="form-group m2-4">
                                         <label className="col-md-12 p-0">Password</label>
                                         <div className="col-md-12 border-bottom p-0">
-                                            <input placeholder="Password" name="password" type="password" onInput={(e)=>setPassword(e.target.value)} value={password} className="form-control p-0 border-1" />
+                                            <input placeholder="Passworddddddddddddddddddd" name="password" type="password" onInput={(e)=>setPassword(e.target.value)} value={password} className="form-control p-0 border-1" />
                                         </div>
                                     </div>    
 
